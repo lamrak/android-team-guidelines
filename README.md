@@ -9,4 +9,6 @@ List of guidelines that we use to develop for the __Mobile__ platforms.
 * [Clean Code Guidelines](code_guidelines/clean_code_guidelines.md)
 
 
-by[Andrii Matkivskiy](amatkivskiy) and [Oleksii Dobrunov](lamrak)
+# By
+@amatkivskiy - Andrii Matkivskiy
+@lamrak - Oleksii Dobrunov
